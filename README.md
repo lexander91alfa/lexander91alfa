@@ -23,7 +23,6 @@ Engenheiro de IA e Desenvolvedor Backend no **Itaú Unibanco**, transformando de
 ## 🛠️ Stack Tecnológica
 
 ### 🤖 Inteligência Artificial
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
