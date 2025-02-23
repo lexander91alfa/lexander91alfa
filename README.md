@@ -33,8 +33,17 @@ Engenheiro de IA e Desenvolvedor Backend no **Itaú Unibanco**, transformando de
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+
+### 🛠️ Frameworks & Bibliotecas
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Docussaurus](https://img.shields.io/badge/Docussaurus-34495E?logo=docusaurus&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -56,10 +65,10 @@ Engenheiro de IA e Desenvolvedor Backend no **Itaú Unibanco**, transformando de
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lexander91alfa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexander91alfa&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=lexander91alfa&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lexander91alfa&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lexander91alfa&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lexander91alfa&theme=highcontrast)
 
