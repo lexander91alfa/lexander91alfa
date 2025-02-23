@@ -1,7 +1,7 @@
 # 👋 Olá, sou Alexandre Santos!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D35E&width=435&lines=AI+Engineer+%7C+Backend+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D35E&width=435&lines=AI+Engineer+%7C+Backend+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 Perfil Profissional
@@ -9,10 +9,16 @@
 💡 **Inovação com Propósito**  
 Engenheiro de IA e Desenvolvedor Backend no **Itaú Unibanco**, transformando desafios complexos em soluções inteligentes através de tecnologias emergentes. Minha jornada única combina:
 
-- 🎓 Formação multidisciplinar: **Bacharelado em Farmácia** + **Pós em IA** (Universidade Cruzeiro do Sul)
-- 🤖 Especialista em soluções de **Machine Learning em produção**
+- 🎓 Formação: **Tecnologo em Inteligência Artificial** na Cruzeiro do Sul
+- 🚀 Experiência: **5+ anos** em projetos de **IA** e **Desenvolvimento de Software**
+- 💼 Atuação: **Mercado Financeiro**, desenvolvendo soluções inovadoras para o setor bancário
+- 🤖 Especialista em soluções de **Backend**
 - 🔧 Arquitetura de sistemas escaláveis com **Cloud Computing**
-- ⚡ Automação de processos com **Python e IoT**
+- ⚡ Automação de processos com **Python**
+- 📊 Análise de dados e **Business Intelligence**
+- 📈 Monitoramento e **DevOps**
+- 📚 **Aprendizado contínuo** e **Compartilhamento de Conhecimento**
+
 
 ## 🛠️ Stack Tecnológica
 
@@ -23,21 +29,27 @@ Engenheiro de IA e Desenvolvedor Backend no **Itaú Unibanco**, transformando de
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
+### 💻 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ### 💾 Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
 
 ### 📈 Monitoramento & Analytics
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
@@ -56,13 +68,6 @@ Engenheiro de IA e Desenvolvedor Backend no **Itaú Unibanco**, transformando de
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-j-santos-368360174)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seu-usuario)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/seu-usuario)
-
-## 📮 Vamos Conversar!
-- 🔭 Buscando colaborar em projetos inovadores de **IA aplicada**
-- 🌱 Atualmente explorando **LLMs e Generative AI**
-- 💬 Pergunte-me sobre: Arquitetura de Sistemas de ML, Cloud Computing ou transição de carreira para TI
-- 📫 Como me encontrar: [E-mail](mailto:seuemail@provedor.com) | [Calendly](https://calendly.com/seu-link)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alexandremaximo)
 
 ⭐ "A melhor maneira de prever o futuro é criá-lo." - Peter Drucker
