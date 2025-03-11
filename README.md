@@ -1,4 +1,4 @@
-# 👋 Olá, sou Alexandre Santos!
+# Alexandre J. Santos
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D35E&width=435&lines=AI+Engineer+%7C+Backend+Developer" alt="Typing SVG" />
